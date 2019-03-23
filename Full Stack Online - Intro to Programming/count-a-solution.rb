@@ -2,7 +2,7 @@ def count_a(word)
 	i = 0
   	count = 0
   	while i < word.length
-    	if (word[i] == "a") || (word[i] == "A")
+    	if word[i] == "a" || word[i] == "A"
         	count += 1
         end
       	
