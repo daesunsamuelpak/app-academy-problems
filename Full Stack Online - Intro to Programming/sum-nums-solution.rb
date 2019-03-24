@@ -1,5 +1,5 @@
 def sum_nums(max)
-	i = 0
+	i = 1
   	count = 0
   	while i <= max
     	
