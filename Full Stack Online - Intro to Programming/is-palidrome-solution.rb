@@ -6,7 +6,7 @@ def is_palindrome(word)
   
   
   while i < word.length
-  	char = word[i]
+    char = word[i]
     reversed_word = char + reversed_word
     i += 1
   end
